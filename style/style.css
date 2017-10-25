@@ -1,0 +1,5 @@
+table,td { border: 1px solid black;}
+td{width: 75px; height: 75px;padding: 0;background-color: WhiteSmoke;font-size: 180%}
+button {border: none; width: 75px; height: 75px; padding:0; background:none; display: block;}
+.rightOperator{background-color: darkorange;}
+.resultShown{height:120px;background-color:black;text-align: right;color: white;font-size: 280%}
